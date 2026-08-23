@@ -1,0 +1,24 @@
+openapi: 3.0.1
+info:
+  title: Rohan — Web Frontend
+  description: >-
+    Demo web frontend for the Cortex PS assessment. Defined via GitOps: this
+    cortex.yaml on the default branch is the source of truth for the entity.
+  x-cortex-tag: rohan-web-frontend
+  x-cortex-type: service
+  x-cortex-git:
+    github:
+      repository: Rohan12UC21/rohan-web-frontend
+  # Ownership — uncomment and fill in (an email owner needs no GitHub org/team):
+  # x-cortex-owners:
+  #   - type: email
+  #     email: you@example.com
+  #     description: Demo owner
+  x-cortex-custom-metadata:
+    tier: demo
+    created-by: rohan
+    defined-via: gitops
+  x-cortex-link:
+    - name: Repository README
+      type: documentation
+      url: https://github.com/Rohan12UC21/rohan-web-frontend#readme
