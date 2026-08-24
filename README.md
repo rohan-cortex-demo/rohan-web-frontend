@@ -8,3 +8,5 @@ This repo is the **GitOps-defined** one: the entity is not imported through the 
 npm ci
 npm start   # http://localhost:3000
 ```
+
+<!-- Entity is defined via cortex.yaml on main (GitOps). -->
