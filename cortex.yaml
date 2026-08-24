@@ -22,3 +22,5 @@ info:
     - name: Repository README
       type: documentation
       url: https://github.com/rohan-cortex-demo/rohan-web-frontend#readme
+
+# GitOps registration trigger after org transfer (2026-08-24)
