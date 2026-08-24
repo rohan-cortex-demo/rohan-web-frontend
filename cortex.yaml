@@ -8,7 +8,7 @@ info:
   x-cortex-type: service
   x-cortex-git:
     github:
-      repository: Rohan12UC21/rohan-web-frontend
+      repository: rohan-cortex-demo/rohan-web-frontend
   # Ownership — uncomment and fill in (an email owner needs no GitHub org/team):
   # x-cortex-owners:
   #   - type: email
@@ -21,4 +21,4 @@ info:
   x-cortex-link:
     - name: Repository README
       type: documentation
-      url: https://github.com/Rohan12UC21/rohan-web-frontend#readme
+      url: https://github.com/rohan-cortex-demo/rohan-web-frontend#readme
